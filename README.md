@@ -1,4 +1,5 @@
 # language-identification
-Detect the text language using a bigram model, Support Vector Machines, and Convolutional Neural Networks. 
-# N.B: 
-The user is busy finishing up the current semester, everything will be up soon. Hang on, please.
+Detect the text language automatically using a bigram model, Support Vector Machines, and Artifical Neural Networks. 
+The model is trained using the WiLI-2018 benchmark dataset, and the highest accuracy achieved on the test dataset is 99.7% with paragraph text.
+
+Live demo: http:diptanu.pythonanywhere.com
